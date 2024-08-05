@@ -1,0 +1,15 @@
+package Maraton_OOP.Utilities;
+
+public enum ERestoranTur {
+	ASYA_MUTFAGI,
+	MEKSIKA_MUTFAGI,
+	ITALYAN_MUTFAGI,
+	EV_YEMEGI,
+	KEBAB,
+	FRANSIZ_MUTFAGI,
+	TATLI,
+	FAST_FOOD,
+	VEGAN,
+	DENIZ_URUNLERI;
+	
+}
