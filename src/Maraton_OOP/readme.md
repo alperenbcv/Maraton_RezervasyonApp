@@ -5,7 +5,7 @@ Bu proje, restoranların yönetimi ve kullanıcıların restoranlarda rezervasyo
 ## Özellikler
 
 - Kullanıcı Kayıt ve Giriş
-- Kullanıcı Rolleri (Admin ve Müşteri)
+- Kullanıcı Rolleri (Admin ve Müşteri) (Admin hesabı oluşturmak için Kayıt Kısmında kullaniciadi bolumune admin yazilmalidir. Bu sayede Admin özel menuleri goruntuleyebilirsiniz.)
 - Restoran Ekleme, Silme ve Listeleme
 - Rezervasyon Oluşturma ve İptal Etme
 - Restoranların Durumunu ve Kapasitesini Yönetme
